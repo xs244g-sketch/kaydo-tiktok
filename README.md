@@ -22,10 +22,10 @@ sudo apt update
 sudo apt install tor curl openssl -y
 
 # استنساخ المستودع
-git clone https://github.com/YOUR_USERNAME/tiktok.git
+git clone https://github.com/xs244g-sketch/kaydo-tiktok.git
 
 # الدخول إلى المجلد
-cd tiktok
+cd kaydo-tiktok
 
 # إعطاء صلاحية التنفيذ للسكربت
 chmod +x kaydo-tiktok.sh
